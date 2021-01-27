@@ -1,0 +1,2 @@
+Add class for solve integrals
+Integrate finding areas by integral in shape-classes
