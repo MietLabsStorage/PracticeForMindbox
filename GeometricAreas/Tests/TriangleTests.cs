@@ -13,7 +13,7 @@ namespace Tests
     [TestClass]
     public class TriangleTests
     {
-        private static double _epsilon = Double.Parse(ConfigurationManager.AppSettings["epsilon"]);
+        private static readonly double Epsilon = Double.Parse(ConfigurationManager.AppSettings["epsilon"]);
 
         [TestMethod]
         public void TestArea()
@@ -27,7 +27,7 @@ namespace Tests
             
             foreach (var vals in testCollection)
             {
-                Assert.IsTrue(Abs(Area(vals[0], vals[1], vals[2]) - vals[3]) < _epsilon);
+                Assert.IsTrue(Abs(Area(vals[0], vals[1], vals[2]) - vals[3]) < Epsilon);
             }
         }
         
@@ -42,16 +42,16 @@ namespace Tests
             
             foreach (var vals in testCollection)
             {
-                Assert.IsTrue(Abs(GaussArea(vals[0] as Point, vals[1] as Point, vals[2] as Point) - Convert.ToDouble(vals[3])) < _epsilon);
+                Assert.IsTrue(Abs(GaussArea(vals[0] as Point, vals[1] as Point, vals[2] as Point) - Convert.ToDouble(vals[3])) < Epsilon);
             }
         }
         
         [TestMethod]
         public void TestRegularArea()
         {
-            Assert.IsTrue(Abs(RegularTriangleArea(R: 2) - 5.1961524227) < _epsilon);
-            Assert.IsTrue(Abs(RegularTriangleArea(r: 1) - 5.1961524227) < _epsilon);
-            Assert.IsTrue(Abs(RegularTriangleArea(a: 2*Sqrt(3)) - 5.1961524227) < _epsilon);
+            Assert.IsTrue(Abs(RegularTriangleArea(R: 2) - 5.1961524227) < Epsilon);
+            Assert.IsTrue(Abs(RegularTriangleArea(r: 1) - 5.1961524227) < Epsilon);
+            Assert.IsTrue(Abs(RegularTriangleArea(a: 2*Sqrt(3)) - 5.1961524227) < Epsilon);
         }
     }
 }

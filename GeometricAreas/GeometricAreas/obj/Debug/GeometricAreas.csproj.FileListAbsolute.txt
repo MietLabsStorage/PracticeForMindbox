@@ -1,0 +1,16 @@
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\GeometricAreas.dll.config
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\GeometricAreas.dll
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\GeometricAreas.pdb
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\obj\Debug\GeometricAreas.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\obj\Debug\GeometricAreas.dll
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\obj\Debug\GeometricAreas.pdb
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Security.AccessControl.dll
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Security.Permissions.dll
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Security.AccessControl.xml
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Security.Permissions.xml
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\obj\Debug\GeometricAreas.csproj.CopyComplete
+C:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\GeometricAreas\obj\Debug\GeometricAreas.csprojAssemblyReference.cache

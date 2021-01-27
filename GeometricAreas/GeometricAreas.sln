@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricAreas", "GeometricAreas\GeometricAreas.csproj", "{FBFD1D5B-E34A-49AD-B82C-1D8F72AEBC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{CE8B7F87-47C5-4101-9CAB-805C3C429261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFD1D5B-E34A-49AD-B82C-1D8F72AEBC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFD1D5B-E34A-49AD-B82C-1D8F72AEBC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFD1D5B-E34A-49AD-B82C-1D8F72AEBC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFD1D5B-E34A-49AD-B82C-1D8F72AEBC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8B7F87-47C5-4101-9CAB-805C3C429261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8B7F87-47C5-4101-9CAB-805C3C429261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8B7F87-47C5-4101-9CAB-805C3C429261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8B7F87-47C5-4101-9CAB-805C3C429261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

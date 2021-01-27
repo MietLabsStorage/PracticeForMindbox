@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.GeometricAreas.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\maksi\Desktop\PracticeForMindbox\GeometricAreas\.idea\.idea.GeometricAreas\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

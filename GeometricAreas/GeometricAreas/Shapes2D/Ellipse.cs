@@ -16,7 +16,7 @@ namespace GeometricAreas.Shapes2D
         }
 
         /// <summary>
-        /// Ax^2+Bx+C=1
+        /// Ax^2+Bxy+Cy^2=1
         /// </summary>
         /// <param name="A"></param>
         /// <param name="B"></param>
@@ -24,7 +24,14 @@ namespace GeometricAreas.Shapes2D
         /// <returns></returns>
         public static double Area(double A, double B, double C)
         {
-            return 2 * PI / Sqrt(4 * A * C - B * B);
+            try
+            {
+                return 2 * PI / Sqrt(4 * A * C - B * B);
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message, e);
+            }
         }
         
         //TODO:

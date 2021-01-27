@@ -1,0 +1,2 @@
+Add Quadrilateral figure as areas for Trapezium, Parallelogram, Rhombus, Square, Kite and others 
+Add other figures

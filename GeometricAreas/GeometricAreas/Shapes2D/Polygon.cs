@@ -35,17 +35,14 @@ namespace GeometricAreas.Shapes2D
             {
                 return 0.25 * n * a * a / Tan(PI / n);
             }
-
             if (R != 0)
             {
                 return 0.5 * n * R * R * Sin(PI / n);
             }
-
             if (r != 0)
             {
                 return n * r * r * Tan(PI / n);
             }
-
             return 0;
         }
 
@@ -57,7 +54,7 @@ namespace GeometricAreas.Shapes2D
         /// <returns></returns>
         public static double PickArea(int i, int b)
         {
-            return i + b / 2 - 1;
+            return i + b / (double)2 - 1;
         }
     }
 }
